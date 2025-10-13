@@ -6,7 +6,7 @@ instalar gitbash.
 2- com o botao direito dentro da pasta inicie o git bash
 
 3- dentro git bash digite os seguintes comandos
-git clone https://github.com/felipe0910/pin.git
+git clone https://github.com/felipe0910/pin-2mestre.git
 
 4- apos instalar a pasta pode fechar o git bash
 
@@ -42,3 +42,4 @@ no terminal vscode selecione gitbash e Digite:
 
 . pronto faz com que atualize o codigo alterado do vscode 
 para repositorio remoto
+
