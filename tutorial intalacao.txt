@@ -1,0 +1,44 @@
+login/criar github
+instalar gitbash.
+
+1- abra a pasta local do eu computador
+
+2- com o botao direito dentro da pasta inicie o git bash
+
+3- dentro git bash digite os seguintes comandos
+git clone https://github.com/felipe0910/pin.git
+
+4- apos instalar a pasta pode fechar o git bash
+
+5- dentro da pasta clique no repositorio instalado como botao direito do mouse e inicie o git bash
+
+6- dentro do bash escreva
+code .
+git init
+
+7-caso ja tenha aberto no vscode escreva
+git fetch
+git pull
+
+e pronto para usar 
+
+
+caso voce faca uma alteracao no codigo:
+
+no terminal vscode selecione gitbash e Digite:
+
+0. git pull
+
+1 git config --global user.name "seu nome"
+
+2 git config --global user.email "email criou a conta git"
+
+3 git add .
+
+4 git commit -m "escreva o que vc alterou"
+
+5 git push
+
+
+. pronto faz com que atualize o codigo alterado do vscode 
+para repositorio remoto
